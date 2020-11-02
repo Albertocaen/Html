@@ -7,5 +7,5 @@ Cree el repositorio usando el comando: `git init`, y luego utilicé `git push` p
 Cloné el repositorio usando el comando: `git clone [url]`
 
 ## Tercer paso
-Primero uno subió su modificación usando `git commit` y `git push` 
+Primero uno subió su modificación usando: `git add`, `git commit` y `git push` 
 y el otro guardó esa modificación en su repositorio local usando `git pull`, luego se repitió el proceso pero cambiando de orden.
