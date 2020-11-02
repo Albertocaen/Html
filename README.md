@@ -1,5 +1,11 @@
-##PRACTICA ENTORNOS DE DESAROLLO
+# Proyecto de Entornos de Desarrollo
 
-##PARTE 2 PRACTICA DE ENTORNOS, Segundo Commit
+## Primer paso
+Cree el repositorio usando el comando: `git init`, y luego utilicé `git push` para hacer la primera subida al repositorio
 
-##Comandos Usados,'commit', 'git init', 'git add', git 'status', 'git push', 'cd' :)
+## Segundo paso
+Cloné el repositorio usando el comando: `git clone [url]`
+
+## Tercer paso
+Primero uno subió su modificación usando `git commit` y `git push` 
+y el otro guardó esa modificación en su repositorio local usando `git pull`, luego se repitió el proceso pero cambiando de orden.
